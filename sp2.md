@@ -42,12 +42,12 @@ class HelloWorld {
     }
 }
 
-<!-- Calculating the Sum of a Series (1 + 1/2 + 1/3 + ... + 1/n)
-Description: Write a program to calculate the sum of the series 1 + 1/2 + 1/3 + ... + 1/n up to the nth term.
-Example:
-Input: n = 4
-Output: 2.083333
-Explanation: Sum of the series is 1 + 1/2 + 1/3 + 1/4 ≈ 2.083333. -->
+# Calculating the Sum of a Series (1 + 1/2 + 1/3 + ... + 1/n)
+# Description: Write a program to calculate the sum of the series 1 + 1/2 + 1/3 + ... + 1/n up to the nth term.
+# Example:
+# Input: n = 4
+# Output: 2.083333
+# Explanation: Sum of the series is 1 + 1/2 + 1/3 + 1/4 ≈ 2.083333.
 
 class HelloWorld {
     public static void main(String[] args) {
@@ -63,12 +63,12 @@ class HelloWorld {
     }
 }
 
-<!-- Finding All Pairs of Elements in an Array that Add Up to a Given Sum
-Description: Write a program to find all pairs of elements in an array whose sum equals a specified target.
-Example:
-Input: array = [1, 2, 3, 4, 5], target = 5
-Output: [(1, 4), (2, 3)]
-Explanation: Pairs that sum up to 5 are (1, 4) and (2, 3). -->
+# Finding All Pairs of Elements in an Array that Add Up to a Given Sum
+# Description: Write a program to find all pairs of elements in an array whose sum equals a specified target.
+# Example:
+# Input: array = [1, 2, 3, 4, 5], target = 5
+# Output: [(1, 4), (2, 3)]
+# Explanation: Pairs that sum up to 5 are (1, 4) and (2, 3).
 
 // Online Java Compiler
 // Use this editor to write, compile and run your Java code online
@@ -90,27 +90,20 @@ class HelloWorld {
         System.out.println(count);
     }
 }
+# 
+# Generating a Diamond Pattern of Stars
+# Difficulty: Medium
+# Topics: Patterns, Basic Programming
+# Description: Write a program to create a diamond pattern with stars of a given size.
+# Example:
+# Input: size = 5
+# Output:
+#   *  
+#  ***  
+# *****  
+#  ***  
+#   *  
 
-<!-- Generating a Diamond Pattern of Stars
-Difficulty: Medium
-Topics: Patterns, Basic Programming
-Description: Write a program to create a diamond pattern with stars of a given size.
-Example:
-Input: size = 5
-Output:
-  *  
- ***  
-*****  
- ***  
-  *   -->
-
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
-//   *  
-//  ***  
-// *****  
-//  ***  
-//   *  
 class HelloWorld {
     public static void main(String[] args) {
       
@@ -140,23 +133,24 @@ class HelloWorld {
     }
 }
 
-<!-- Counting the Number of Palindromic Substrings in a String
-Description: Write a program to count how many palindromic substrings exist in a given string.
-Example:
-Input: string = "aaa"
-Output: 6
-Explanation: Palindromic substrings are "a", "a", "a", "aa", "aa", "aaa". -->
+# Counting the Number of Palindromic Substrings in a String
+# Description: Write a program to count how many palindromic substrings exist in a given string.
+# Example:
+# Input: string = "aaa"
+# Output: 6
+# Explanation: Palindromic substrings are "a", "a", "a", "aa", "aa", "aaa". -->
 
 
-<!-- 
-Generating a Matrix with Multiplication Table
-Description: Write a program to generate a matrix where each element at position (i, j) is the product of i and j.
-Example:
-Input: size = 3
-Output: 
-1 2 3  
-2 4 6  
-3 6 9  -->
+
+
+# Generating a Matrix with Multiplication Table
+# Description: Write a program to generate a matrix where each element at position (i, j) is the product of i and j.
+# Example:
+# Input: size = 3
+# Output: 
+# 1 2 3  
+# 2 4 6  
+# 3 6 9 
 
 class HelloWorld {
     public static void main(String[] args) {
@@ -180,23 +174,24 @@ class HelloWorld {
     }
 }
 
-<!-- Finding the GCD of Multiple Numbers
-Description: Write a program to find the GCD (Greatest Common Divisor) of an array of numbers.
-Example:
-Input: array = [12, 24, 36]
-Output: 12
-Explanation: The GCD of 12, 24, and 36 is 12. -->
+# Finding the GCD of Multiple Numbers
+# Description: Write a program to find the GCD (Greatest Common Divisor) of an array of numbers.
+# Example:
+# Input: array = [12, 24, 36]
+# Output: 12
+# Explanation: The GCD of 12, 24, and 36 is 12. -->
 
 
 
-<!-- Finding the Sum of the First N Odd Numbers
-Difficulty: Easy
-Topics: Mathematical Computations
-Description: Write a program to calculate the sum of the first N odd numbers.
-Example:
-Input: N = 5
-Output: 25
-Explanation: Sum of the first 5 odd numbers (1 + 3 + 5 + 7 + 9) is 25. -->
+
+# Finding the Sum of the First N Odd Numbers
+# Difficulty: Easy
+# Topics: Mathematical Computations
+# Description: Write a program to calculate the sum of the first N odd numbers.
+# Example:
+# Input: N = 5
+# Output: 25
+# Explanation: Sum of the first 5 odd numbers (1 + 3 + 5 + 7 + 9) is 25.
 
 class HelloWorld {
     public static void main(String[] args) {
