@@ -19,6 +19,7 @@ class HelloWorld {
     }
 }
 
+
 # Generating a Multiplication Table for a Range
 # Difficulty: Easy
 # Topics: Arrays, Basic Programming
