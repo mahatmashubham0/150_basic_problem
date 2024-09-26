@@ -1,12 +1,9 @@
-<!-- Finding the Sum of Digits of a Number Until Zero
-Description: Write a program to repeatedly sum the digits of a number until the result is zero.
-Example:
-Input: number = 123
-Output: 6
-Explanation: Sum of digits is 1 + 2 + 3 = 6; sum of digits of 6 is 6 (which is a single digit). -->
-
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
+# Finding the Sum of Digits of a Number Until Zero
+# Description: Write a program to repeatedly sum the digits of a number until the result is zero.
+# Example:
+# Input: number = 123
+# Output: 6
+# Explanation: Sum of digits is 1 + 2 + 3 = 6; sum of digits of 6 is 6 (which is a single digit).
 
 class HelloWorld {
     public static void main(String[] args) {
@@ -22,16 +19,16 @@ class HelloWorld {
     }
 }
 
-<!-- Generating a Multiplication Table for a Range
-Difficulty: Easy
-Topics: Arrays, Basic Programming
-Description: Write a program to generate multiplication tables for numbers within a specified range.
-Example:
-Input: start = 2, end = 4
-Output: 2 x 1 = 2   3 x 1 = 3   4 x 1 = 4  
-        2 x 2 = 4   3 x 2 = 6   4 x 2 = 8  
-        2 x 3 = 6   3 x 3 = 9   4 x 3 = 12  
-        2 x 4 = 8   3 x 4 = 12  4 x 4 = 16  -->
+# Generating a Multiplication Table for a Range
+# Difficulty: Easy
+# Topics: Arrays, Basic Programming
+# Description: Write a program to generate multiplication tables for numbers within a specified range.
+# Example:
+# Input: start = 2, end = 4
+# Output: 2 x 1 = 2   3 x 1 = 3   4 x 1 = 4  
+#         2 x 2 = 4   3 x 2 = 6   4 x 2 = 8  
+#         2 x 3 = 6   3 x 3 = 9   4 x 3 = 12  
+#         2 x 4 = 8   3 x 4 = 12  4 x 4 = 16 
 
 class HelloWorld {
     public static void main(String[] args) {
